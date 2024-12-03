@@ -19,7 +19,3 @@ The dataset used in this project contains user-product interactions with ratings
   - `surprise`
   - `matplotlib`
   - `scikit-learn`
-
-You can install the required libraries by running:
-```bash
-pip install -r requirements.txt
