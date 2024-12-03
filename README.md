@@ -15,7 +15,6 @@ The dataset used in this project contains user-product interactions with ratings
 - **GPU Used**: Google Colab with a T4 GPU for model training and evaluation.
 - **Libraries**: The project requires the following Python libraries:
   - `pandas`
-  - `numpy`
+  - `seaborn`
   - `surprise`
   - `matplotlib`
-  - `scikit-learn`
